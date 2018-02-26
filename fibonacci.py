@@ -1,3 +1,7 @@
+#This is a simple function made for creating fibonacci sequence from 1 to n 
+#n is taken from user and passed into function
+#Fibonacci sequence is a sequence of number where each number is sum of previously occured two numbers
+
 def fibonacci(n):
     a=1
     b=1
